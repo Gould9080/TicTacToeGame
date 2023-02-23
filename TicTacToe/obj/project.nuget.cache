@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "db3UyPII20oZBk5YOa2qTDNbDUIQtoAgQdcTfVgWDceUt48Cf2ydCTcvLXBnkHI/U1wKZ/bnaSjSmO/W42lb6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\JamesSideProjects\\Tic Tac Toe Game\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
