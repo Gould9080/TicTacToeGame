@@ -12,3 +12,17 @@ C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\TicTa
 C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
 C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
 C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Student\source\repos\JamesSideProjects\Tic Tac Toe Game\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
