@@ -1,7 +1,6 @@
 # TicTacToeGame
 
 
-This is a first attempt at a standard TicTacToe game written in C#
+This is an ongoing project on a standard TicTacToe game written in C#
 
-I plan to refactor this using better logic for win conditions
-
+I will continue to refactor logic, layout, etc. based on new concepts as I learn them.
