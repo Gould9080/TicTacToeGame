@@ -6,9 +6,9 @@ namespace TicTacToe
     {
         public static void Main()
         {
-            TicTacToe Program = new TicTacToe();
+            UserInterface ui = new UserInterface();
 
-            Program.TicTacGo();
+            ui.TicTacGo();
         }
     }
 }

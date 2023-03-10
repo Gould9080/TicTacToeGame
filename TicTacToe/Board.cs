@@ -6,6 +6,20 @@ namespace TicTacToe
 {
     public class Board
     {
+        /*
+
+        This is the layout of the board, values populated using coordinates from Board.gameBoard  
+
+        -----------------
+        | 0,0  0,1  0,2 |
+        |               |
+        | 1,0  1,1  1,2 |
+        |               |
+        | 2,0  2,1  2,2 |
+        -----------------
+
+        */
+
         public string[,] gameBoard = { { "1", "2", "3" }, { "4", "5", "6" }, { "7", "8", "9" } };
 
         public void PrintActiveBoard()

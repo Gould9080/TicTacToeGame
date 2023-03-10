@@ -6,21 +6,9 @@ using System.Threading;
 
 namespace TicTacToe
 {
-    public class TicTacToe
+    public class UserInterface
     {
-        /*
-          
-       This is the layout of the board, values populated using coordinates from Board.gameBoard  
 
-       -----------------
-       | 0,0  0,1  0,2 |
-       |               |
-       | 1,0  1,1  1,2 |
-       |               |
-       | 2,0  2,1  2,2 |
-       -----------------
-
-        */
 
         // Set starting values, variables
         int positionX = 0;
